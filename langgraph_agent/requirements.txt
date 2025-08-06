@@ -1,0 +1,12 @@
+langchain-core
+langgraph
+langchain-experimental
+typing-extensions
+langchain_openai
+langgraph-supervisor
+langchain-ollama
+langchain-community
+langchain-tools
+rich
+langchain-mcp-adapters
+langgraph-cli[inmem]

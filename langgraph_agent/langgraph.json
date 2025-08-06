@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "supervisor": "main:supervisor"
+  },
+  "env": ".env"
+}
