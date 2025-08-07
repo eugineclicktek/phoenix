@@ -10,3 +10,4 @@ langchain-tools
 rich
 langchain-mcp-adapters
 langgraph-cli[inmem]
+mysql-connector-python
